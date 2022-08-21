@@ -11,7 +11,7 @@ Please be creative and original!
 Node.js v14+
 
 ## Installation
-```npm i
+npm i
 ```
 ## Proyect Execution
-```npm start
+npm start
