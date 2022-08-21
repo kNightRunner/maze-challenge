@@ -15,6 +15,3 @@ Node.js v14+
 ```
 ## Proyect Execution
 ```npm start
-```#� �m�a�z�e�-�c�h�a�l�l�e�n�g�e�
-�
-�
