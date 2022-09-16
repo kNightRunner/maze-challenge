@@ -6,7 +6,6 @@ consecutive sequence CCC-DDD-EEE-DDD and repeating the pattern.
 The consecutive letters don’t need to be on the same line. Your solution should be able to find the exit starting on any of the maze entries.
 The test will be scored by the quality of the code, algorithm selection and implementation.
 Please be creative and original!
-![Jokes Card](https://readme-jokes.vercel.app/api)
 
 ## Requirements
 Node.js v14+
