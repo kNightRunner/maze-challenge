@@ -20,9 +20,8 @@ npm start
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=Tanu-N-Prabhu)
 
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/Tanu-N-Prabhu/Python)
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Tanu-N-Prabhu&show_icons=true)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kNightRunner)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanu-N-Prabhu&theme=blue-green)
 
