@@ -23,6 +23,4 @@ npm start
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kNightRunner)](https://github.com/anuraghazra/github-readme-stats)
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanu-N-Prabhu&theme=blue-green)
 
-![Your Repository's Stats](https://contrib.rocks/image?repo=Tanu-N-Prabhu/Python)
